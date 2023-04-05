@@ -1,0 +1,16 @@
+{
+  "name": "transactionchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristóvão Soares",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.groupby": "^4.6.0"
+  },
+  "type": "module"
+}
